@@ -961,3 +961,34 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Dec2025 10:42:24.848] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
 [05Dec2025 10:42:24.850] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
 [05Dec2025 10:42:24.850] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Dec2025 10:42:24.883] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[05Dec2025 10:42:25.026] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2ae887bb
+[05Dec2025 10:42:25.095] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: depurr[/172.22.0.1:53926] logged in with entity id 334 at (-75.47692390894342, 124.0625, -1354.3963065145654)
+[05Dec2025 10:42:25.114] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@27e4b4f8 into net.minecraft.network.Connection@16c83042
+[05Dec2025 10:42:25.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: depurr joined the game
+[05Dec2025 10:42:26.585] [Server thread/DEBUG] [io.netty.util.internal.ThreadLocalRandom/]: -Dio.netty.initialSeedUniquifier: 0x31e488d37f2b6343
+[05Dec2025 10:42:27.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[05Dec2025 10:46:22.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save VEKSEL Z
+[05Dec2025 10:46:22.757] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete VEKSEL Z
+[05Dec2025 10:50:09.579] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: depurr lost connection: Disconnected
+[05Dec2025 10:50:09.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: depurr left the game
+[05Dec2025 10:51:22.503] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save VEKSEL Z
+[05Dec2025 10:51:22.509] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete VEKSEL Z
+[05Dec2025 10:51:40.566] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[05Dec2025 10:51:40.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rcon: Stopping the server]
+[05Dec2025 10:51:40.583] [RCON Client /0:0:0:0:0:0:0:1 #2/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[05Dec2025 10:51:40.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Dec2025 10:51:40.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Dec2025 10:51:40.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Dec2025 10:51:41.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[VEKSEL Z]'/minecraft:overworld
+[05Dec2025 10:51:42.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[VEKSEL Z]'/minecraft:the_end
+[05Dec2025 10:51:42.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[VEKSEL Z]'/minecraft:the_nether
+[05Dec2025 10:51:42.196] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save VEKSEL Z
+[05Dec2025 10:51:42.203] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete VEKSEL Z
+[05Dec2025 10:51:42.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05Dec2025 10:51:42.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Dec2025 10:51:42.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Dec2025 10:51:42.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05Dec2025 10:51:42.308] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[05Dec2025 10:51:42.309] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[05Dec2025 10:51:42.333] [Server thread/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Listener stopped

@@ -1,0 +1,76 @@
+{
+    "CompleterNpc": "Spooky",
+    "NextQuestId": 10,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "IgnoreNBT": 0b,
+    "Title": "Collect 10 rotten flesh for Spooky",
+    "Text": "\"Collect 10 rotten flesh for Spooky\"",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 500,
+    "QuestCommand": "",
+    "ModRev": 18,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1764877915251L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "IgnoreDamage": 0b,
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "apocalypsenow:wired_baseball_bat",
+                "Count": 1b,
+                "tag": {
+                    "Damage": 0
+                }
+            },
+            {
+                "Slot": 1b,
+                "id": "apocalypsenow:bulletproof_vest_chestplate",
+                "Count": 1b,
+                "tag": {
+                    "Damage": 0
+                }
+            },
+            {
+                "Slot": 2b,
+                "id": "apocalypsenow:bandage",
+                "Count": 2b
+            },
+            {
+                "Slot": 3b,
+                "id": "apocalypsenow:cooked_canned_soup",
+                "Count": 12b
+            }
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 2b,
+                "id": "minecraft:rotten_flesh",
+                "Count": 10b
+            }
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "\"Good job, kid! I never doubted you. Here, I have something for you. Now when we're all set. Do you mind checking on Mick? I think he needs help with something\""
+}

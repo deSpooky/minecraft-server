@@ -360,3 +360,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Dec2025 11:51:00.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [depurr: Gave 10 [Rotten Flesh] to depurr]
 [06Dec2025 11:53:53.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [depurr: Set own game mode to Creative Mode]
 [06Dec2025 12:02:27.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [depurr: Set the time to 1000]
+[06Dec2025 12:14:29.189] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: depurr lost connection: Disconnected
+[06Dec2025 12:14:29.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: depurr left the game
+[06Dec2025 12:15:39.789] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7708343
+[06Dec2025 12:15:39.830] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: depurr[/172.22.0.1:48048] logged in with entity id 22035 at (-77.38814063474753, 124.0, -1357.3943285280004)
+[06Dec2025 12:15:39.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: depurr joined the game
+[06Dec2025 12:16:16.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [depurr: Set the time to 1000]
+[06Dec2025 12:20:59.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [depurr: Set the time to 13000]
+[06Dec2025 12:22:29.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: depurr has made the advancement [Take Aim]

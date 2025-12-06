@@ -2,7 +2,7 @@
     "CompleterNpc": "Mick",
     "NextQuestId": -1,
     "RandomReward": 0b,
-    "QuestRepeat": 0,
+    "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "\"Mick needs help\"",
     "Text": "",
@@ -32,7 +32,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1764878148700L,
+        "TimePast": 1765022141846L,
         "Time": 0L,
         "Subject": ""
     },

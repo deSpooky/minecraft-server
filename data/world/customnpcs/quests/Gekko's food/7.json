@@ -15,7 +15,7 @@
         "OptionFaction1Points": 100,
         "DecreaseFaction2Points": 0b
     },
-    "RewardExp": 0,
+    "RewardExp": 150,
     "QuestCommand": "",
     "ModRev": 18,
     "Type": 0,
@@ -27,13 +27,23 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1764876608324L,
+        "TimePast": 1765022356133L,
         "Time": 0L,
         "Subject": ""
     },
     "IgnoreDamage": 0b,
     "Rewards": {
         "NpcMiscInv": [
+            {
+                "Slot": 4b,
+                "id": "minecraft:baked_potato",
+                "Count": 10b
+            },
+            {
+                "Slot": 6b,
+                "id": "minecraft:bread",
+                "Count": 21b
+            }
         ]
     },
     "Items": {

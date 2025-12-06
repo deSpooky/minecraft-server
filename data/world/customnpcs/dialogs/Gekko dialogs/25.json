@@ -28,7 +28,7 @@
     "AvailabilityFactionStance": 0,
     "AvailabilityScoreboard2Value": 1,
     "DialogId": 25,
-    "AvailabilityQuest": 4,
+    "AvailabilityQuest": 2,
     "AvailabilityDialog4": 0,
     "AvailabilityScoreboardObjective": "",
     "AvailabilityDialog3": 0,
@@ -74,7 +74,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1764876274255L,
+        "TimePast": 1765022383035L,
         "Time": 0L,
         "Subject": ""
     }
